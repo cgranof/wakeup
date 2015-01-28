@@ -1,0 +1,68 @@
+/*html, body {
+	height: 100%;
+}*/
+
+
+.container {
+	background-color: #CCCCCC;
+	width: 800px;
+	height: 500px;
+	margin: auto;
+
+}
+
+.outer-shell {
+	background-color: #141414;
+	width: 600px;
+	height: 300px;
+	margin: auto;
+
+}
+
+.inner-shell {
+	background-color: #000;
+	width: 500px;
+	height: 250px;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.clock-screen {
+	background-color: #1A0000;
+	width: 350px;
+	height: 150px;
+	margin: auto;
+	line-height: 150px;
+	horizontal-align: center;
+	border-radius: 10px;
+	
+}
+
+.clock-text {
+	color: #FF0000;
+	font-size: 120px;
+	text-align: center;
+}
+
+.clock-ampm {
+	background-color: #FF0000;
+	height: 15px;
+	width: 15px;
+	border-radius: 50px;
+}
+
+.bottom-am {
+	color: #FFF;
+	padding: 20px;
+	word-spacing: 20px;
+}
+
+.bottom-pm {
+	color: #FFF;
+	padding: 20px;
+	word-spacing: 20px;
+}
+
+.left-ampm {
+	color: #FFF;
+}
